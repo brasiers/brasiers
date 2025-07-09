@@ -24,7 +24,7 @@
  
 Cryptocurrency:
 
-![Nano](https://img.shields.io/badge/Nano-008DE4?style=for-the-badge&logo=nano&logoColor=white) ![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white) ![Bitcoin Cash](https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?logo=bitcoincash&logoColor=fff) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white) ![Dogecoin](https://img.shields.io/badge/Dogecoin-C2A633?logo=dogecoin&logoColor=white) ![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?logo=litecoin&logoColor=white) ![Monero](https://img.shields.io/badge/Monero-F60?logo=monero&logoColor=fff) ![Ripple](https://img.shields.io/badge/Ripple-2288CB?logo=ripple&logoColor=white) ![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=fff) ![Zcash](https://img.shields.io/badge/Zcash-F3B724?logo=zcash&logoColor=fff)
+![Nano](https://img.shields.io/badge/Nano-008DE4?style=for-the-badge&logo=nano&logoColor=white) ![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=fff) ![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white) ![Bitcoin Cash](https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?logo=bitcoincash&logoColor=fff) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white) ![Dogecoin](https://img.shields.io/badge/Dogecoin-C2A633?logo=dogecoin&logoColor=white) ![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?logo=litecoin&logoColor=white) ![Monero](https://img.shields.io/badge/Monero-F60?logo=monero&logoColor=fff) ![Ripple](https://img.shields.io/badge/Ripple-2288CB?logo=ripple&logoColor=white) ![Zcash](https://img.shields.io/badge/Zcash-F3B724?logo=zcash&logoColor=fff)
 
 🖼️ Frameworks:
 
