@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brandon!
 - 👀 I’m interested in programming, gaming, cryptocurrency.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on projects with developers who are looking to contribute to open source work.
 
 - # 💻 Tech Stack:
