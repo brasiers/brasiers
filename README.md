@@ -45,6 +45,8 @@ Cryptocurrency:
 
 <img style="height: 30vh;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brasiers&show_icons=true&theme=holi" alt="GitHub Stats"><img style="height: 30vh;" src="https://github-readme-stats.vercel.app/api?username=brasiers&show_icons=true&theme=holi" alt="GitHub Stats">
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brasiers&repo=sol-drop&theme=holi)](https://github.com/brasiers/sol-drop)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brasiers&repo=brasierframework&theme=holi)](https://github.com/brasiers/brasierframework)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brasiers&repo=Username&theme=holi)](https://github.com/brasiers/Username)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brasiers&repo=XMLtoPDF&theme=holi)](https://github.com/brasiers/XMLtoPDF)
